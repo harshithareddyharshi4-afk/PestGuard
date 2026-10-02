@@ -1,0 +1,29 @@
+temperature,humidity,rainfall,pest_risk,pest_type
+23,55,0,LOW,None
+24,58,1,LOW,None
+25,60,2,LOW,None
+26,63,2,LOW,None
+27,65,3,LOW,None
+28,60,2,LOW,None
+29,64,3,LOW,None
+25,67,5,MEDIUM,Leaf Folder
+26,68,5,MEDIUM,Leaf Folder
+27,69,5,MEDIUM,Leaf Folder
+28,70,6,MEDIUM,Leaf Folder
+29,72,7,MEDIUM,Leaf Folder
+27,72,7,MEDIUM,Leaf Folder
+28,73,7,MEDIUM,Leaf Folder
+30,68,6,MEDIUM,Stem Borer
+30,70,7,MEDIUM,Stem Borer
+30,72,7,MEDIUM,Stem Borer
+31,70,7,MEDIUM,Stem Borer
+29,75,8,HIGH,Brown Planthopper
+30,75,8,HIGH,Brown Planthopper
+30,77,9,HIGH,Brown Planthopper
+31,75,9,HIGH,Brown Planthopper
+31,78,10,HIGH,Brown Planthopper
+32,76,9,HIGH,Brown Planthopper
+32,79,10,HIGH,Brown Planthopper
+32,82,12,HIGH,Brown Planthopper
+33,80,11,HIGH,Brown Planthopper
+34,82,13,HIGH,Brown Planthopper
